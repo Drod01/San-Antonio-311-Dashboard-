@@ -131,10 +131,6 @@ The raw CSV is **not** committed — it is ~172 MB and is refreshed daily by the
 
 ---
 
-## Why this exists
-
-This is a working sample for a freelance service: taking a messy public spreadsheet and turning it into an operations view someone can act on — volume, SLA compliance, cycle time, backlog, and where the failures concentrate. The same treatment applies to a client's own exports from ServiceNow, Salesforce, Jira, Excel, or a legacy ticketing system.
-
 ## License
 
 Code: MIT (see [LICENSE](LICENSE)).
